@@ -7,7 +7,7 @@ body {
 }
 header {
 	background-image: url(jumbotron.jpg);
-	height: 600px;
+	height: 100vh;
 }
 .nav_ul {
 	margin: 0;
@@ -287,4 +287,7 @@ img {
 	border: solid 2px black;
 	background-color: black;
 	text-align: center;
+}
+.row {
+	margin: 0;
 }
